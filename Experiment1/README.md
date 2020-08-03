@@ -11,4 +11,4 @@ To Display the names and roll numbers of students
 
 Output obtained
 
-![Test Image 1](Output.png)
+![Image](Output.png)
