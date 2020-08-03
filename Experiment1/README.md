@@ -11,4 +11,4 @@ To Display the names and roll numbers of students
 
 Output obtained
 
-![Image](Output.png)
+![Image](Output.jpeg)
