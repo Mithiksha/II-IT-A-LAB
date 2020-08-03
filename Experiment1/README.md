@@ -10,3 +10,5 @@ To Display the names and roll numbers of students
 4.
 
 Output obtained
+
+![Test Image 1](Output.png)
